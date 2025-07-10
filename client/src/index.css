@@ -1,0 +1,11 @@
+/* y2k-drive-player/client/src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add any custom global styles here if truly necessary,
+   but try to stick to Tailwind utilities for consistency. */
+body {
+  margin: 0;
+  font-family: sans-serif; /* Override Tailwind's default font if needed, or configure in tailwind.config.js */
+}
