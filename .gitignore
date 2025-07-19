@@ -7,3 +7,15 @@ yarn-error.log
 .DS_Store # macOS specific
 *.log
 .vscode/ # VS Code settings
+
+# Firebase Service Account Key
+firebase-admin-sdk.json
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
